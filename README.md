@@ -40,7 +40,7 @@ This handy utility allows you to export your Spotify playlists to CSV format, ma
 Basketball2D brings the excitement of basketball to your screen with smooth 2D gameplay, realistic physics, and intuitive controls. Perfect for basketball fans who want a quick and fun gaming experience.
 
 **Technologies:** Game Development, 2D Graphics, Physics Engine  
-**Repository:** [View on GitHub](https://github.com/pjloury/basketball-2d)
+**Repository:** [View on GitHub](https://github.com/pjloury/bball-2d)
 
 ---
 

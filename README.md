@@ -40,7 +40,7 @@ This handy utility allows you to export your Spotify playlists to CSV format, ma
 Basketball2D brings the excitement of basketball to your screen with smooth 2D gameplay, realistic physics, and intuitive controls. Perfect for basketball fans who want a quick and fun gaming experience.
 
 **Technologies:** Game Development, 2D Graphics, Physics Engine  
-**Repository:** [View on GitHub](https://github.com/pjloury/basketball2d)
+**Repository:** [View on GitHub](https://github.com/pjloury/basketball-2d)
 
 ---
 
@@ -50,7 +50,7 @@ Basketball2D brings the excitement of basketball to your screen with smooth 2D g
 Football2D captures the strategy and excitement of football in an accessible 2D format. With multiple game modes and engaging mechanics, it offers both casual and competitive gameplay experiences.
 
 **Technologies:** Game Development, 2D Graphics, Game Logic  
-**Repository:** [View on GitHub](https://github.com/pjloury/football2d)
+**Repository:** [View on GitHub](https://github.com/pjloury/football-2d)
 
 ---
 

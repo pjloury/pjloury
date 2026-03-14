@@ -1,89 +1,72 @@
-# 👋 Hi there! I'm PJ Loury
+# Hi, I'm PJ Loury 👋
 
-Welcome to my GitHub profile! I'm a developer passionate about creating innovative solutions across different platforms. I love building tools that solve real problems and enhance user experiences.
-
-## 🚀 Featured Projects
-
-### 🎵 KeepUp
-**A Swift application that helps users stay updated with their favorite artists**
-
-KeepUp is designed to help music lovers never miss updates from their favorite artists. Built with Swift, it provides a clean and intuitive interface for tracking new releases, tour dates, and artist news.
-
-**Technologies:** Swift, iOS Development  
-**Repository:** [View on GitHub](https://github.com/pjloury/KeepUp)
+Builder at the intersection of AI, product, and creative technology. I make things that are fast, beautiful, and actually useful.
 
 ---
 
-### 🖼️ PJAerial
-**A tool to display stunning aerial screensavers on macOS**
+## 🚀 Recent Projects
 
-PJAerial brings beautiful aerial photography to your Mac desktop. This macOS application provides an elegant way to enjoy high-quality aerial screensavers, perfect for those who appreciate visual aesthetics while working.
+### 🚁 Drone Footage Site
+**A cinematic aerial video showcase with liquid-glass UI**
 
-**Technologies:** Swift, macOS Development, Aerial Photography  
-**Repository:** [View on GitHub](https://github.com/pjloury/PJAerial)
+Full-screen drone videography player with crossfade transitions, gapless video preloading, real-time progress bar, and a liquid glass welcome overlay inspired by Apple's design language. Videos shuffle on every load.
 
----
-
-### 🎧 Spotify to CSV
-**A JavaScript tool that exports your Spotify playlists to CSV format**
-
-This handy utility allows you to export your Spotify playlists to CSV format, making it easy to share, analyze, or backup your music collections. Perfect for music enthusiasts who want to work with their playlist data outside of Spotify.
-
-**Technologies:** JavaScript, Spotify Web API, CSV Export  
-**Repository:** [View on GitHub](https://github.com/pjloury/spotify-to-csv)
+**Stack:** Vanilla JS, CSS, Cloudflare R2  
+**Live:** [pjloury-drones.vercel.app](https://pjloury-drones.vercel.app) · [GitHub](https://github.com/pjloury/drone-footage-site)
 
 ---
 
-### 🏀 Basketball2D
-**A 2D basketball game with realistic physics and engaging gameplay**
+### 🎹 Piano Chords
+**Browser app for learning pop songs by ear**
 
-Basketball2D brings the excitement of basketball to your screen with smooth 2D gameplay, realistic physics, and intuitive controls. Perfect for basketball fans who want a quick and fun gaming experience.
+Chord progressions, voicings, melody guides, and audio playback — all in the browser. Built for musicians who want to learn songs without staring at sheet music.
 
-**Technologies:** Game Development, 2D Graphics, Physics Engine  
-**Repository:** [View on GitHub](https://github.com/pjloury/bball-2d)
-
----
-
-### 🏈 Football2D
-**A 2D football game featuring strategic gameplay and dynamic action**
-
-Football2D captures the strategy and excitement of football in an accessible 2D format. With multiple game modes and engaging mechanics, it offers both casual and competitive gameplay experiences.
-
-**Technologies:** Game Development, 2D Graphics, Game Logic  
-**Repository:** [View on GitHub](https://github.com/pjloury/football-2d)
+**Stack:** JavaScript, Web Audio API  
+**Live:** [piano-chords.vercel.app](https://piano-chords.vercel.app) · [GitHub](https://github.com/pjloury/piano-chords)
 
 ---
 
-### 🎶 Song Chords
-**A musical tool for learning and practicing chord progressions**
+### 🇪🇸 Spanish Lessons
+**Interactive Spanish language learning app**
 
-Song Chords helps musicians learn and practice their favorite songs by providing accurate chord progressions, interactive diagrams, and playback features. Whether you're a beginner or experienced musician, this app makes learning new songs easier and more enjoyable.
+A clean, fast browser-based language learning tool. Built for Mara.
 
-**Technologies:** Music Technology, Chord Theory, Interactive Learning  
-**Repository:** [View on GitHub](https://github.com/pjloury/song-chords)
-
-## 🛠️ Tech Stack
-
-- **Mobile Development:** Swift, iOS
-- **Desktop Development:** Swift, macOS
-- **Web Development:** JavaScript, APIs
-- **Game Development:** 2D Graphics, Physics Engines
-- **Music Technology:** Chord Theory, Interactive Learning
-- **Data Processing:** CSV, JSON
-
-## 📫 Connect with Me
-
-- 🌐 **Website:** [pjloury.com](http://pjloury.com)
-- 💼 **LinkedIn:** [linkedin.com/in/pjloury](https://www.linkedin.com/in/pjloury)
-- 📧 **Email:** Feel free to reach out through my website
-
-## 🎯 What I'm Working On
-
-I'm always exploring new technologies and building projects that interest me. Currently focused on:
-- Mobile app development
-- macOS applications
-- Web tools and utilities
+**Stack:** HTML, CSS, JavaScript  
+**Live:** [sp-lessons.vercel.app](https://sp-lessons.vercel.app) · [GitHub](https://github.com/pjloury/sp-lessons)
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas.* ✨
+### 🤖 Multi-Agent Research
+**Deep dive into Claude Code multi-agent coordination**
+
+Research report on multi-agent AI workflows, best practices, and a detailed comparison of OpenCode vs Claude Code for real-world coding tasks.
+
+**Stack:** Markdown, AI tooling  
+[GitHub](https://github.com/pjloury/multi-agent-research)
+
+---
+
+### 🏀 Basketball Cards
+**A digital basketball card experience**
+
+[GitHub](https://github.com/pjloury/bball-cards)
+
+---
+
+## 🛠️ Stack
+
+**AI / ML:** LLMs, multi-agent systems, NVIDIA NeMo, PEFT fine-tuning  
+**Web:** JavaScript, HTML/CSS, Vercel, Cloudflare  
+**Mobile:** Swift, iOS  
+**Infra:** NVIDIA Cloud Functions, edge deployments
+
+---
+
+## 📫 Find Me
+
+- 🌐 [pjloury.com](http://pjloury.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pjloury)
+
+---
+
+*Always building something. Feel free to explore.* ✨
